@@ -1,0 +1,42 @@
+#name{
+    font-family: cursive;
+    font-size: 50px;
+    text-emphasis: underline;
+    color: red;
+    opacity: 0.7;
+}
+
+.about {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+li:hover{
+    color:green;
+}
+
+h4.about {
+    color: red;
+}
+
+.intro {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 200px;
+}
+
+.table {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
