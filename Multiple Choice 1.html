@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mutiple Choice Game</title>
+    <link rel="stylesheet" type="text/css" href="Multiple Choice 1.css" />
+  </head>
+  <body>
+    <header>
+      <h1 class="title">Quiz about general knowledge</h1>
+      <p class="title">A test to see whether you are smart enough...</p>
+    </header>
+    <form id="quiz" name="quiz">
+      <main>
+        <div class="question1">
+          <h4>What is the capital of The US?</h4>
+          <input
+            type="radio"
+            name="question1"
+            value="Washington"
+            class="option"
+          />
+          Washington<br />
+          <input
+            type="radio"
+            name="question1"
+            value="Washington DC"
+            class="option"
+          />
+          Washington DC<br />
+          <input
+            type="radio"
+            name="question1"
+            value="New York"
+            class="option"
+          />
+          New York<br />
+        </div>
+        <div class="question2">
+          <h4>
+            If you have 5 apples and split them into two, how many apples would
+            you have?
+          </h4>
+          <input type="text" name="question2" class="field" />
+        </div>
+        <div class="question3">
+          <h4>What is 1 + 1 + 1 + 1 + 2(0)?</h4>
+          <input type="text" name="question3" class="field" />
+        </div>
+        <div class="question4">
+          <h4>
+            16, 06, 68, 88, ?, 98....What is the number that belongs in the
+            question mark?
+          </h4>
+          <input type="text" name="question4" class="field" />
+        </div>
+        <div class="question5">
+          <h4>Which is the right spelling?</h4>
+          <input type="radio" name="question5" value="Artic" class="option" />
+          Artic<br />
+          <input type="radio" name="question5" value="Arctic" class="option" />
+          Arctic<br />
+        </div>
+        <div>
+          <input
+            type="button"
+            value="Submit"
+            class="submit"
+            onclick="check();"
+          />
+        </div>
+      </main>
+      <footer>
+        <br />
+        <p class="about">
+          Created by Akshay Padmakumar for the CS50x Final Project
+        </p>
+      </footer>
+    </form>
+    <script src="Multiple Choice 1.js"></script>
+  </body>
+</html>

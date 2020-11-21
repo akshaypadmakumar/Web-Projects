@@ -1,2 +1,1 @@
-# Web-Projects
-Here is the place for all my small web based projects
+My name is Akshay Padmakumar and I am from the US (Houston, Texas). I have decided to make a web quiz for my CS50x final project. This is a quiz for general knowledge. I used some html to code the questions and its answer choices and used some CSS for styling the website. However, I wanted to make this site dynamic rather than static. Therefore, I also used some JavaScript to let the user know how many questions that they got correct. Therefore, the JavaScript is able to access the values given by the user to check if each question is correct or not. All this happens when the user clicks the submit button at the bottom of the quiz.
