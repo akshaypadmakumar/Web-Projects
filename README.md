@@ -1,2 +1,2 @@
 # Web-Projects
-Here is the place for all my small web based projects
+JavaScript is potentially going to be added in the future
