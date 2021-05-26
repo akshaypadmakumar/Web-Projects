@@ -1,2 +1,2 @@
-# Web-Projects
-This is the same layout as my Landing-Page project. However, I will be using flexbox for this project
+# Landing-Page-Flexbox
+Here is my take on creating a landing-page through using Flexbox CSS
