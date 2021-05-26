@@ -1,2 +1,2 @@
-# Web-Projects
-JavaScript is potentially going to be added in the future
+# Google-Form-Mock
+Here is my attempt to redesign Google Forms through the use of HTML and CSS
